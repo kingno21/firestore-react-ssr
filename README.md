@@ -26,30 +26,30 @@ yarn dev
 ## Data sample
 
 ```json
-users: [
-    xxx: {
-        name: ???
+"users": [
+    "xxx": {
+        "name": "???"
     }
 ]
-wallets: [
-    yyy: {
-        name: wallet1
-        user_id: xxx
+"wallets": [
+    "yyy": {
+        "name": "wallet1",
+        "user_id": "xxx"
     },
-    zzz: {
-        name: wallet2
-        user_id: xxx
+    "zzz": {
+        "name": "wallet2",
+        "user_id": "xxx"
     }
 ]
 
-cards: [
-    kkk: {
-        name: card1
-        wallet_id: yyy
+"cards": [
+    "kkk": {
+        "name": "card1",
+        "wallet_id": "yyy"
     },
-    hhh: {
-        name: card2
-        wallet_id: zzz
+    "hhh": {
+        "name": "card2",
+        "wallet_id": "zzz"
     }
 ]
 ```
