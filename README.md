@@ -1,6 +1,11 @@
 # firestore-react-ssr
 Using NextJS, Firestore, ReactJS to make a ssr application.
 
+# Intro
+
+about a new way to handle relational data with store by nosql, enhance atomic design pattern used by reactjs.
+more detail can be found in: [COMPLEX RELATIONAL APP BY, REACTJS + FIRESTORE + SERVERLESS](https://angry-johnson-99693b.netlify.com/post/firestore-nextjs-serverless/)
+
 # Usage
 
 ## Install dependency
