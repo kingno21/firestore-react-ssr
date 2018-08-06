@@ -1,14 +1,13 @@
 import React from 'react'
+import ListGroup from '../../HOCComponents/withHOCListGroup'
 
 export default class extends React.Component {
-  constructor(props) {
-    super(props)
-  }
-
   render() {
     return (
       <div>
-        page
+        <ListGroup
+          user_id={"xxx"}
+        />
       </div>
     )
   }
